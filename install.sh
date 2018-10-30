@@ -1,6 +1,5 @@
 #!/bin/bash
-
-#This script installs all deps. It can be ran in venv
+#This script installs all deps. It can be ran in a virtualenv
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 cd "$DIR"
